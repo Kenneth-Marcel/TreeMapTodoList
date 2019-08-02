@@ -7,5 +7,4 @@ File summaries:
 Create Treemap-todo-list-app: Used current Python experience to emulate as close as possible how the webapp should operate in a jupyter notebook. Shows how the interface will look and how the functions will be used.
 
 
-Project Aims:
-Part 1.  
+Project Aims (soon)
