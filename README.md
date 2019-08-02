@@ -3,5 +3,9 @@ A project aimed at creating a todo-list by implementing user tasks into a treema
 
 This project is starting from scratch. Therefore part 1 will initialise this process by showing the path I have taken in order to accomplish this.
 
+File summaries:
+Create Treemap-todo-list-app: Used current Python experience to emulate as close as possible how the webapp should operate in a jupyter notebook. Shows how the interface will look and how the functions will be used.
+
+
 Project Aims:
-1.
+Part 1.  
